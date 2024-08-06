@@ -46,8 +46,8 @@
 
 ### Скриншоты
 
-<img src="https://raw.githubusercontent.com/FirelCrafter/test_solution/main/.git/images/image02.png" alt="Drawing on Image" width="300"/>
-<img src="https://raw.githubusercontent.com/FirelCrafter/test_solution/main/.git/images/image01.png" alt="Applied Filter" width="300"/>
+![Drawing on Image](./.github/images/image02.png)
+![Applied Filter](./.github/images/image01.png)
 
 ## 🧩 Компоненты
 
