@@ -46,8 +46,10 @@
 
 ### Скриншоты
 
-![Drawing on Image](./.github/images/image02.png)
-![Applied Filter](./.github/images/image01.png)
+<p align="center">
+  <img src="./.github/images/image02.png" alt="Drawing on Image" width="200"/>
+  <img src="./.github/images/image01.png" alt="Applied Filter" width="200"/>
+</p>
 
 ## 🧩 Компоненты
 
